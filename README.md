@@ -1,1 +1,3 @@
-* I cloned the repository to a folder on my laptop
+* Cloned the repository to a folder on my laptop
+* Made a commit changing the README
+* Made a new branch feature
